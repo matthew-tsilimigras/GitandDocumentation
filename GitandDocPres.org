@@ -1,0 +1,16 @@
+* What is file versioning?
+* Getting your own private (free) GitHub page
+* Installing Git to your machine
+* Key Git Commands
+** Cloning
+** Committing
+** Pulling/Fetching
+** Pushing
+* Advanced Git Topics
+** Braching
+** Merging
+* 
+* Git on UNC's HPC (Longleaf)
+* Other Git Resources
+** Javascript tutorial
+** Git Manual
